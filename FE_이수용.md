@@ -14,4 +14,4 @@ Django 사용법
 4. 가상환경 설치(pip3 install pipenv)
 5. 가상환경 켜기(pipenv shell)
 6. django 설치(pip install django)
-4. 초기 설정, 앱 생성, 서버 실행 순서로 진행하기
+7. 초기 설정, 앱 생성, 서버 실행 순서로 진행하기
