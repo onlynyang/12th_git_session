@@ -4,7 +4,7 @@
     2. git remote add origin url 명령을 이용해 원격 저장소와 연결
     3. 최신 버전을 pull
     4. 개인 작업 후, add , commit , push!
-    5. github 에 업로드 되었는지 확인!!
+    5. github 에 업로드 되었는지 확인 !!
 
 - Django 사용법
     1. pip3 install pipenv 명령을 이용해 가상환경 설치 
