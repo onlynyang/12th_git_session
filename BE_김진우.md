@@ -8,4 +8,3 @@
 5.git pull origin main 최신사항 반영
 6.git add,commit -m,push origin main으로 올리기
 7.깃허브에서 올라간 내용 확인
-
