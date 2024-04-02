@@ -9,7 +9,7 @@
 ## 깃 사용법 혼자
     1. Github에서 개인 레포지토리 생성
     2. 로컬에서 폴더 생성 후, 사용자 등록 
-    -> git config --global user.name//email 본인 깃허브 아이디 또는 이메일 
+    -> git config --global user.name//email 본인 깃허브 아이디 또는 이메일. 
     3. 생성한 개인 레포지토리에 연결 -> git remote add origin 을 통해 연걸
     3.5 git pull origin main 을 통해 깃허브의 main branch 최신사항 반영
     ***
