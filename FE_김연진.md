@@ -21,6 +21,6 @@
  - 설치: pip3 install pipenv
  - 켜기: pipenv shell
 4. Django 설치하기
- - pop install django
+ - pip install django
 5. 앱생성
 6. 서버 실행(migrate!!!)
