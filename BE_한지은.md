@@ -10,5 +10,5 @@
      git branch "새이름" : 새 브랜치 생성
      git add .
      git commit -m "커밋메시지"
-     gut pull upstream main
+     git pull upstream main
      git push origin "현재 브랜치 이름"
